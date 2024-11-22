@@ -32,16 +32,16 @@ The output for this task should contain:
 ## Task summary
 
 ```
-NER/\\
-├── data/\\
-│   └── gpt_dataset.csv\\
-├── utils/\\
-│   └── plotting.py\\
-├── demo.ipynb\\
-├── model.py\\
-├── README.md\\
-├── report.pdf\\
-├── requirements.txt\\
+NER/
+├── data/
+│   └── gpt_dataset.csv
+├── utils/
+│   └── plotting.py
+├── demo.ipynb
+├── model.py
+├── README.md
+├── report.pdf
+├── requirements.txt
 └── rnn_model.pth
 ```
 

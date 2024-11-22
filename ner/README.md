@@ -29,19 +29,18 @@ The output for this task should contain:
     ```bash
     pip install -r requirements.txt
 
-
-
 ## Task summary
 
-NER/
-├── data/
-│   └── gpt_dataset.csv
-├── utils/
-│   └── plotting.py
-├── demo.ipynb
-├── model.py
-├── README.md
-├── requirements.txt
+NER/\\
+├── data/\\
+│   └── gpt_dataset.csv\\
+├── utils/\\
+│   └── plotting.py\\
+├── demo.ipynb\\
+├── model.py\\
+├── README.md\\
+├── report.pdf\\
+├── requirements.txt\\
 └── rnn_model.pth
 
 - 'data' folder contains 'gpt_dataset.csv' file with  a dataset, generated via ChatGPT. It is a tabular annotated sequence of words, arranged in sentences, each ending with a fullstop.

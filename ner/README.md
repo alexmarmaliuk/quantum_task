@@ -19,15 +19,15 @@ The output for this task should contain:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/username/repository-name.git```
+   git clone https://github.com/alexmarmaliuk/quantum_task.git
 
 2. **Navigate to the project folder:**
     ```bash
-    cd repository-name```
+    cd repository-name
 
 3. **Install the required dependencies:**
     ```bash
-    pip install -r requirements.txt```
+    pip install -r requirements.txt
 
 
 
